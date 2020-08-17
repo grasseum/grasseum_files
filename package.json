@@ -1,0 +1,23 @@
+{
+  "name": "grasseum_files",
+  "version": "1.0.1",
+  "description": "Grasseum folder generator library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Grasseum"
+  ],
+  "dependencies": {},
+  "author": "Pein Freccs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grasseum/grasseum_directory_extend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grasseum/grasseum_directory_extend/issues"
+  },
+  "homepage": "https://github.com/grasseum/grasseum_directory_extend#readme"
+}
