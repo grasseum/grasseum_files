@@ -4,7 +4,7 @@
   "description": "Grasseum folder generator library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "es_linter": "eslint fs/*.js  *.js --fix"
   },
   "keywords": [
     "Grasseum"
